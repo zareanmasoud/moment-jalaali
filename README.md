@@ -114,11 +114,9 @@ require('moment/locale/fa')
 To use `fromNow()` in React Native projects:
 
 ```js
-import moment from "moment-jalaali";
-import fa from "moment/src/locale/fa";
-moment.locale("fa", fa);
-moment.loadPersian();
+import "moment/locale/fa";
 ```
+and don't use moment.locale("fa")
 
 ## Related Projects
 
