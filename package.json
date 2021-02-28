@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "jalaali-js": "^1.1.0",
-    "moment": "^2.27.0",
+    "moment": "^2.22.2",
     "moment-timezone": "^0.5.21",
     "rimraf": "^2.6.2"
   }
